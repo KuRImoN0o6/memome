@@ -5,10 +5,11 @@ memomeとは軽量かつシンプルでサーバー上に展開可能なメモ�
 # installation
 Preparation.
 
-"momemo" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
 # Configration
 Ruby 2.6.4
 Rails 5.2.4.4
 gem 3.0.8
 SQLite 3.34.0
+
+
+"momemo" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
