@@ -1,0 +1,34 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #DADAE6;
+}
+
+.top-main {
+    width: 60%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+
+.top-title {
+    text-align: center;
+    font-size: 60px;
+}
+
+.top-subtitle {
+    text-align: center;
+    font-size: 30px;
+}
+
+.start-memo{
+    text-align: center;
+    font-size: 18px;
+}
+
+.start-memo:hover {
+    coloe: black;
+}
