@@ -1,24 +1,14 @@
-# README
+# memomeとは?
+memomeとは軽量かつシンプルでサーバー上に展開可能なメモ帳･付箋アプリです｡
+とにかくシンプル性を求めている方に...
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# installation
+Preparation.
 
-Things you may want to cover:
+"momemo" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Configration
+Ruby 2.6.4
+Rails 5.2.4.4
+gem 3.0.8
+SQLite 3.34.0
