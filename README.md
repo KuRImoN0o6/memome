@@ -2,6 +2,9 @@
 memomeとは軽量かつシンプルでサーバー上に展開可能なメモ帳･付箋アプリです｡
 とにかくシンプル性を求めている方に...
 
+# Release
+https://github.com/KuRImoN0o6/memome/releases
+
 # Installation
 Preparation.
 
